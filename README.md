@@ -36,9 +36,9 @@
 
 * RBM模型预测（给目标用户推荐）
 ```
-    python train.py <dict path> <model path> <log path> <user id>
+    python predict.py <dict path> <model path> <log path> <user id>
     
-    如：python train.py ./data ./data ./data 1
+    如：python predict.py ./data ./data ./data 1
 ```
 #### 其他
 我的github：https://github.com/JonLagrange
